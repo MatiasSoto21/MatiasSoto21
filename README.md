@@ -16,7 +16,7 @@
 
 
 ###  ✔ Learning...  
--  I’m currently learning TypeScript and SASS  
+-  I’m currently learning Next.JS and TailWindCss
   
 
 - ❓ Ask me about anything! --> matias2015fernando@gmail.com
