@@ -25,7 +25,7 @@
 
 
 
-### 💛 Goals for 2023:  
+### 💛 Goals for 2025:  
 - Learn the basics of TypeScript.  
   
 
